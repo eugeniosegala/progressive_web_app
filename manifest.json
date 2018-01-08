@@ -1,0 +1,36 @@
+{
+  "short_name": "PWA STARTER KIT",
+  "name": "PWA",
+  "icons": [{
+      "src": "icon/icon-1.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon/icon-2.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon/icon-3.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icon/icon-4.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon/icon-5.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "<YOUR STARTER URL HERE>",
+  "display": "fullscreen",
+  "lang": "it-IT",
+  "background_color": "#ccc",
+  "theme_color": "#5bb1f9",
+  "orientation": "portrait-primary"
+}

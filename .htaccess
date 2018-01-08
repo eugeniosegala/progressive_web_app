@@ -1,0 +1,4 @@
+### THIS IS FOR HTTPS (IS REQUIRER FOR PWA) ###
+RewriteEngine On
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
