@@ -4,8 +4,6 @@ A small kit (ready to use) to create a PWA, including all the necessary files.
 
 Requirements: https protocol, edit files with your specifications.
 
-<br>
-
 # MIT License
 
 Copyright (c) 2017 Eugenio Segala
